@@ -1,3 +1,7 @@
 -----------------------------------------------
 testing out basic programs in assembly language
 -----------------------------------------------
+
+1. two-address instructions
+  - hello_world
+  - char
